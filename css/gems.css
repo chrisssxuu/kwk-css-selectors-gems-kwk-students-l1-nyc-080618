@@ -1,6 +1,6 @@
 /* Select the image with a id of ruby */
 
-/*selector for ruby goes here */  #ruby{
+/*selector for ruby goes here */  #ruby img{
   position: absolute;
   z-index: 1;
   top: 315px;
@@ -9,7 +9,7 @@
 
 /* Select the image with class of emerald */
 
-/*selector for emerald goes here */  #emerald{
+/*selector for emerald goes here */  #emerald img{
   position: absolute;
   z-index: 2;
   top: 350px;
@@ -28,7 +28,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-/*selector for yellow diamond goes here */ #yellow_diamond{
+/*selector for yellow diamond goes here */ #yellow_diamond img{
   position: absolute;
   z-index: 4;
   top: 325px;
@@ -36,7 +36,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-/*selector for diamond goes here */ #diamond{
+/*selector for diamond goes here */ #diamond img{
   position: absolute;
   z-index: 3;
   top: 300px;
